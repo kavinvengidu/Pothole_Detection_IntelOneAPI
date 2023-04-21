@@ -1,4 +1,4 @@
-Pothole Detection via MaskRCNN
+Pothole Detection via ResNet50
 ==============================
 
 This whole Project was primarly build for the **__Intel OneAPI competition 2023
