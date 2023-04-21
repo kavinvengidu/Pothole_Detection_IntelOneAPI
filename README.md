@@ -70,11 +70,11 @@ for f in os.listdir(os.getcwd()):
 We have also done annotion of all the images present there,
 Annotion images
 
-- For Annotion of images we have used robots.ox.ac.uk
+- For Annotation of images we have used roboflow
 ````
-http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html
+https://roboflow.com/
 ````
-**__After annotion around 10,000 images then we create this dataset__**
+**__After annotion around 1000 images then we create this dataset__**
 
 
 **Download these files**
