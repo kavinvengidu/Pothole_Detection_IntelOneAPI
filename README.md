@@ -37,7 +37,7 @@ Install **youtube-dl** to __download files from google drive__ directly in termi
 https://github.com/ytdl-org/youtube-dl#installation
 ```
 #### Training Dataset
-To increase the model accuracy , For the training dataset we have trained them _5 types of dataset.._
+To increase the model accuracy , For the training dataset we have trained them with
 - Original Dataset Links
 ```
 PotHole Detection DataSet
