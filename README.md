@@ -40,11 +40,7 @@ https://github.com/ytdl-org/youtube-dl#installation
 To increase the model accuracy , For the training dataset we have trained them _5 types of dataset.._
 - Original Dataset Links
 ```
-Sunny Dataset
-Anue Dataset
-Road Damage Dataset (Adachi)
-Rick_set6
-Kitti image Dataset
+PotHole Detection DataSet
 ```
 If you want to add your own dataset into our dataset. We have **resized all the images** for faster processing to **800x800**, Please do same with your images too
 ```python
