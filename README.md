@@ -104,29 +104,6 @@ Structure for the whole Test Dataset Links
 ├──----- IMG_7311.MOV
 ├──----- IMG_7312.MOV
 ````
-#### We have trained model till 160 epoch
-- As our accuracy of our model is 81% people who want to replicate in between and can take it
-  the higher accuracy feel free to download
-- we are also providing the different stage of trained model so that people who want to consider
-  it to use in transfer learning can also use this
-
-- If you are retraining the model then specify path from the epoch h5 else give a base model path provided on github 
-
-
-| Epochs        | Download Link           |
-| -------------------|:-----------------------:|
-| base model | [Github link](https://github.com/matterport/Mask_RCNN/releases)|
-
-
-**Custom Training Process**
-```bash
-python3 custom.py train --dataset=customImages --weights=mask_rcnn_damage_0160.h5 --logs logs/
-```
-
-**Background Training Process**
-````bash
-nohup python3 custom.py train --dataset=customImages --weights=mask_rcnn_damage_0160.h5 --logs logs/&
-````
 
 
 
@@ -134,13 +111,3 @@ nohup python3 custom.py train --dataset=customImages --weights=mask_rcnn_damage_
 
 
 
-
-
-## References used
-- [Matterport MaskRCNN](https://github.com/matterport/Mask_RCNN)
-- [Priya Diwani](https://www.analyticsvidhya.com/blog/2018/07/building-mask-r-cnn-model-detecting-damage-cars-python/)
-- [CrowdAi](https://www.crowdai.org/)
-
-
-_Feel free to contact me if you have any questions and/or suggestions _
-**_[pradyumg@gmail.com](mailto:pradyumg@gmail.com)_**
