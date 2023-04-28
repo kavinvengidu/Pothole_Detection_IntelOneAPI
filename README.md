@@ -12,7 +12,6 @@ inside images and plot them on google maps,which includes the size of the pothol
 
 Pothole detection Accuracy **__81%__** in different environments
 
-The main files are ````Final_file_for_tata_innoverse.ipnb````
 
 if you require to train your own custom Machine learning model from the same dataset
 run this simple command referenced from the 
