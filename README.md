@@ -112,9 +112,7 @@ Structure for the whole Test Dataset Links
 
 <h4>OUTPUT VIDEO</h4>
 
-![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Webapp/ezgif.com-video-to-gif.gif)
-
-
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Webapp/Predicted.mp4)
 
 
 
