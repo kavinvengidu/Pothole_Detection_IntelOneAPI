@@ -112,8 +112,11 @@ Structure for the whole Test Dataset Links
 
 <h4>OUTPUT VIDEO</h4>
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Webapp/Predicted.mp4)
 
 
+
+
+
+https://user-images.githubusercontent.com/114469196/235296474-bf9400d7-9785-4492-9005-915ff7025ae3.mp4
 
 
