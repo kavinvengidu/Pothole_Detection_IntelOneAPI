@@ -20,7 +20,8 @@ Pothole detection Accuracy **__81%__** in different environments
 
 <h4>Pothole Detected</h4>
 
-![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(3).jpg)&nbsp;![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(4).jpg)
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(3).jpg)
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(4).jpg)
 
 
 
@@ -111,7 +112,7 @@ Structure for the whole Test Dataset Links
 
 <h4>OUTPUT VIDEO</h4>
 
-![]()
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Webapp/ezgif.com-video-to-gif.gif)
 
 
 
