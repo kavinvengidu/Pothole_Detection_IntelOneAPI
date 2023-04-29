@@ -18,7 +18,8 @@ run this simple command referenced from the
 ```
 python3 custom.py train --dataset=customImages --model=/path/to/weights.h5
 ```
-![Pothole Detected](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred.jpg)
+![Pothole Detected](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(1).jpg)![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(2).jpg)
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(3).jpg)![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(4).jpg)
 
 
 
