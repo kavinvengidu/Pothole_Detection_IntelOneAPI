@@ -1,6 +1,6 @@
 Pothole Detection via ResNet50
 ==============================
-![](https://user-images.githubusercontent.com/114469196/235294815-0e39c6b9-2b97-4bbd-afc9-75ee2379a288.png)
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/image_processing20210905-7828-1qbj62x.gif)
 
 This whole Project was primarly build for the **__Intel OneAPI competition 2023
 Pothole Detection__**
@@ -105,7 +105,7 @@ Structure for the whole Test Dataset Links
 
 ![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/confusion_matrix%20(1).png)
 
-<h4>correlogram</h4>
+<h4><b>Correlogram</b></h4>
 
 ![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/labels_correlogram.jpg)
 
