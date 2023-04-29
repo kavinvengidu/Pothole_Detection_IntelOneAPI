@@ -13,12 +13,8 @@ inside images and plot them on google maps,which includes the size of the pothol
 Pothole detection Accuracy **__81%__** in different environments
 
 
-if you require to train your own custom Machine learning model from the same dataset
-run this simple command referenced from the 
-```
-python3 custom.py train --dataset=customImages --model=/path/to/weights.h5
-```
-![Pothole Detected](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(1).jpg)&nbsp;![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(2).jpg)
+<h4>Pothole Detected</h4>
+
 ![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(3).jpg)&nbsp;![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/ResNet50/val_batch2_pred%20(4).jpg)
 
 
@@ -77,16 +73,16 @@ https://roboflow.com/
 
 | Folder Name        | Download Link           |
 | -------------------|:-----------------------:|
-| Train | [Gdrive link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing) |
-| Val      | [Gdrive link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing)     |
+| Roboflow | [link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing) |
+| Roboflow      | [link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing)     |
 
 We have created this Dataset for final testing of the model
 This folder contains videos and photos that we recorded in May 2019
 **[Test Dataset Download Link](https://drive.google.com/drive/u/2/folders/1duZ9O0If8mpHk8lZkFHQifv5R8z4dcKx)**
-```
+
 
 **For custom Training Process**
-````
+
 extract the zip files and create a folder named as "customImages" and move both folders
 (train) & (val) folder directly inside it and then run the command
 
