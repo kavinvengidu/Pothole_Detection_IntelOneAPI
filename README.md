@@ -101,10 +101,16 @@ Structure for the whole Test Dataset Links
 ├──----- IMG_7311.MOV
 ├──----- IMG_7312.MOV
 ````
-<h4>OUTPUT VIDEO</h4>
+<h4>Confusion Matrix</h4>
 
 ![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/confusion_matrix%20(1).png)
+
+<h4>correlogram</h4>
+
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/labels_correlogram.jpg)
+
 <h4>OUTPUT VIDEO</h4>
+
 ![]()
 
 
