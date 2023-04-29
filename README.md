@@ -19,7 +19,7 @@ run this simple command referenced from the
 python3 custom.py train --dataset=customImages --model=/path/to/weights.h5
 ```
 
-![Pothole Detected](https://media.giphy.com/media/Xc9DFuCIIiouihgfzZ/giphy.gif)  ![Original Images Link](https://media.giphy.com/media/jpKRIVzNVJv3VEegTZ/giphy.gif)
+![Pothole Detected]()
 
 
 ## Team
