@@ -1,9 +1,14 @@
 Pothole Detection via ResNet50
 ==============================
+![](https://user-images.githubusercontent.com/114469196/235294815-0e39c6b9-2b97-4bbd-afc9-75ee2379a288.png)
 
 This whole Project was primarly build for the **__Intel OneAPI competition 2023
 Pothole Detection__**
 
+<h4>WHY INTEL ONEAPI</h4>
+Intel oneAPI is a software development toolkit that provides a unified programming model for developing high-performance applications across a range of architectures, including CPUs, GPUs, FPGAs, and AI accelerators. It is designed to help developers optimize their code for the specific hardware they are targeting, making it easier to achieve maximum performance.
+
+![](https://user-images.githubusercontent.com/90272634/230717338-f2dc33e7-31df-4dc0-98f1-9074cb7252e2.png)
 
 ## Abstract
 This Project is based upon collection of images from phone application's and usinng Deep Learning
@@ -96,6 +101,9 @@ Structure for the whole Test Dataset Links
 ├──----- IMG_7311.MOV
 ├──----- IMG_7312.MOV
 ````
+<h4>OUTPUT VIDEO</h4>
+
+![](https://github.com/kavinvengidu/Pothole_Detection_IntelOneAPI/blob/main/Images/confusion_matrix%20(1).png)
 <h4>OUTPUT VIDEO</h4>
 ![]()
 
