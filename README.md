@@ -73,8 +73,8 @@ https://roboflow.com/
 
 | Folder Name        | Download Link           |
 | -------------------|:-----------------------:|
-| Roboflow | [link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing) |
-| Roboflow      | [link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing)     |
+| Roboflow | [link](https://public.roboflow.com/object-detection/pothole/1) |
+| Roboflow      | [link](https://universe.roboflow.com/hackthethong/pothole-detection-gmnid)     |
 
 We have created this Dataset for final testing of the model
 This folder contains videos and photos that we recorded in May 2019
